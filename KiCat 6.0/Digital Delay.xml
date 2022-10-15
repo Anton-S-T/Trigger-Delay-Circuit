@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\NepToast\Desktop\Electronic Projects\digital delay\Digital Delay\Digital Delay.kicad_sch</source>
+    <date>15.10.2022 17:39:01</date>
+    <tool>Eeschema (6.0.8)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Digital Delay Rising Edge and Falling Edge </title>
+        <company/>
+        <rev>1</rev>
+        <date>2022-07-09</date>
+        <source>Digital Delay.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C101">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23a131e6-cace-44d9-ad4c-b9e81279ae69</tstamps>
+    </comp>
+    <comp ref="C103">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6475b447-f453-4337-a840-0938e72814c7</tstamps>
+    </comp>
+    <comp ref="C104">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b07af0e-089d-41e0-aedc-755c55a02d4c</tstamps>
+    </comp>
+    <comp ref="C105">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>662968db-72d5-4943-8f35-551e5e39459f</tstamps>
+    </comp>
+    <comp ref="C106">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78454ae0-8ce9-41ee-b77c-9bba5f5f103b</tstamps>
+    </comp>
+    <comp ref="C107">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47268b1f-b5c5-40e9-9064-a8d8e2a0cfac</tstamps>
+    </comp>
+    <comp ref="C108">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c78ee37-d683-4ca6-be12-9ba8b8e3266c</tstamps>
+    </comp>
+    <comp ref="C110">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c53c7258-4c79-40fc-a6b7-c77c7d1eb295</tstamps>
+    </comp>
+    <comp ref="C111">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6be9e996-3f63-4fd4-ace5-fd2d4da90564</tstamps>
+    </comp>
+    <comp ref="C112">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b56f032-7eb3-4344-8235-796d64c17b05</tstamps>
+    </comp>
+    <comp ref="C113">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1dbd7f3-e5e7-44a3-8eec-df50255f2fe5</tstamps>
+    </comp>
+    <comp ref="C114">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31949f6f-9782-4c04-9081-a92120f254de</tstamps>
+    </comp>
+    <comp ref="C115">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6df6e3c0-57db-4c76-9e1c-4c6c1188bd8f</tstamps>
+    </comp>
+    <comp ref="C116">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a988a1cf-27ac-4b03-8bd6-2c1412a16d83</tstamps>
+    </comp>
+    <comp ref="C117">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>289a1894-b418-4a7a-8701-96dde997541c</tstamps>
+    </comp>
+    <comp ref="C118">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>471de150-6e32-47bf-b6e1-418a4fa31878</tstamps>
+    </comp>
+    <comp ref="J101">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4afc656f-3d8b-46e5-bc3a-45b8d01034c3</tstamps>
+    </comp>
+    <comp ref="J102">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a8eecd6-9aff-4caf-9e03-7a1518f0f4e7</tstamps>
+    </comp>
+    <comp ref="J103">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bd74c32-440e-4fba-8110-ba98c983ac58</tstamps>
+    </comp>
+    <comp ref="J104">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c70a2d1a-b321-41a4-ba35-d63ccd38d68d</tstamps>
+    </comp>
+    <comp ref="J105">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b44e8f1-f444-431c-95ce-bf2d66bcf2e8</tstamps>
+    </comp>
+    <comp ref="J106">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc81dbbf-8bf5-4fc5-b444-72ad0777f38a</tstamps>
+    </comp>
+    <comp ref="J107">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d65e20fa-e740-4609-b04e-9f38c5f206c8</tstamps>
+    </comp>
+    <comp ref="J108">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff7592f9-38ea-4307-a39e-2be2a8a021c7</tstamps>
+    </comp>
+    <comp ref="J109">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>350ec01c-868d-40c4-98ac-be54e22acf85</tstamps>
+    </comp>
+    <comp ref="R101">
+      <value>100k</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66a430f6-504b-436f-a12f-c4cac7970758</tstamps>
+    </comp>
+    <comp ref="R102">
+      <value>22k</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3f93284-e8cd-4182-a7e2-8f9afc99457e</tstamps>
+    </comp>
+    <comp ref="R103">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>726ea6d8-4eb6-43bf-a776-1d5fe321f919</tstamps>
+    </comp>
+    <comp ref="R104">
+      <value>100k</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6695e061-3425-4896-b51d-085c764737c1</tstamps>
+    </comp>
+    <comp ref="R105">
+      <value>22k</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a4db2d1-ce7f-4dcf-98d7-b81a23507002</tstamps>
+    </comp>
+    <comp ref="R106">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69083639-e868-4293-be67-aaf94e281a01</tstamps>
+    </comp>
+    <comp ref="RV101">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical</footprint>
+      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64fd3659-c7e0-404c-8751-88d25584fb66</tstamps>
+    </comp>
+    <comp ref="RV102">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical</footprint>
+      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52bc398f-9b97-421c-84d5-e74c45c5bdd5</tstamps>
+    </comp>
+    <comp ref="U101">
+      <value>LM393</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm393.pdf</datasheet>
+      <libsource lib="Comparator" part="LM393" description="Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dccd6577-0000-4122-9a35-7c66862a1cde 994bcbe8-e46a-4f82-8349-b4b36935b96e 1a77bb94-1900-4a09-bec1-d965414d264f</tstamps>
+    </comp>
+    <comp ref="U102">
+      <value>74LS11</value>
+      <footprint>Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS11</datasheet>
+      <libsource lib="74xx" part="74LS11" description="Triple 3-input AND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7df48ab8-5019-4438-950e-c5d9414e213b 5e405c98-01fd-4be1-a77f-8abc3672cdf0 5acdefce-19bf-4947-a666-396c554de53c 5606ec1c-0a75-4be4-a33c-7ef186ea8097</tstamps>
+    </comp>
+    <comp ref="U103">
+      <value>74LS32</value>
+      <footprint>Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/sn74LS32</datasheet>
+      <libsource lib="74xx" part="74LS32" description="Quad 2-input OR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: Digital Delay.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>916fb9f9-8086-49e4-80aa-5de179160b4b 63b311cb-d6cb-4397-b28e-8f72866026eb 674e7254-1ca2-480c-a405-06f37c4abbcb c40ff641-a87f-4469-9e58-ce49aa0161a6 2a3a645a-6979-4adf-a4f3-df014aef8b7d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="74LS11">
+      <description>Triple 3-input AND</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS11</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS11</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS11</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="input"/>
+        <pin num="12" name="" type="output"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS32">
+      <description>Quad 2-input OR</description>
+      <docs>http://www.ti.com/lit/gpn/sn74LS32</docs>
+      <footprints>
+        <fp>DIP?14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS32</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/sn74LS32</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Comparator" part="LM393">
+      <description>Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm393.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOP*5.28x5.23mm*P1.27mm*</fp>
+        <fp>VSSOP*3.0x3.0mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM393</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm393.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="open_collector"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="_" type="input"/>
+        <pin num="7" name="" type="open_collector"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_Trim">
+      <description>Trim-potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Trim</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/74xx.kicad_sym</uri>
+    </library>
+    <library logical="Comparator">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Comparator.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C101" pin="1" pintype="passive"/>
+      <node ref="C103" pin="1" pintype="passive"/>
+      <node ref="C104" pin="1" pintype="passive"/>
+      <node ref="C105" pin="1" pintype="passive"/>
+      <node ref="C112" pin="1" pintype="passive"/>
+      <node ref="C113" pin="1" pintype="passive"/>
+      <node ref="C114" pin="1" pintype="passive"/>
+      <node ref="C115" pin="1" pintype="passive"/>
+      <node ref="J101" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R102" pin="1" pintype="passive"/>
+      <node ref="R105" pin="1" pintype="passive"/>
+      <node ref="RV101" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV102" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U101" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U102" pin="11" pintype="input"/>
+      <node ref="U102" pin="13" pintype="input"/>
+      <node ref="U102" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U102" pin="3" pintype="input"/>
+      <node ref="U103" pin="14" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="-5V">
+      <node ref="C106" pin="1" pintype="passive"/>
+      <node ref="C110" pin="1" pintype="passive"/>
+      <node ref="C111" pin="1" pintype="passive"/>
+      <node ref="C116" pin="1" pintype="passive"/>
+      <node ref="J101" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="RV101" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV102" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U101" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="3" name="/Both_Edges_Out">
+      <node ref="J108" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U102" pin="5" pintype="input"/>
+      <node ref="U103" pin="6" pintype="output"/>
+    </net>
+    <net code="4" name="/Comp_Out_A">
+      <node ref="R101" pin="2" pintype="passive"/>
+      <node ref="R102" pin="2" pintype="passive"/>
+      <node ref="U101" pin="1" pintype="open_collector"/>
+      <node ref="U102" pin="1" pintype="input"/>
+    </net>
+    <net code="5" name="/Comp_Out_B">
+      <node ref="R104" pin="2" pintype="passive"/>
+      <node ref="R105" pin="2" pintype="passive"/>
+      <node ref="U101" pin="7" pintype="open_collector"/>
+      <node ref="U103" pin="1" pintype="input"/>
+    </net>
+    <net code="6" name="/Falling_Edge_Out">
+      <node ref="J105" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J107" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U103" pin="3" pintype="output"/>
+    </net>
+    <net code="7" name="/Ref_Comp_A">
+      <node ref="C107" pin="1" pintype="passive"/>
+      <node ref="J103" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="RV101" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U101" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="8" name="/Ref_Comp_B">
+      <node ref="C117" pin="1" pintype="passive"/>
+      <node ref="J106" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="RV102" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U101" pin="6" pinfunction="_" pintype="input"/>
+    </net>
+    <net code="9" name="/Rising_Edge_Out">
+      <node ref="J102" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J104" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U102" pin="12" pintype="output"/>
+    </net>
+    <net code="10" name="/Signal_Comp_A">
+      <node ref="C108" pin="1" pintype="passive"/>
+      <node ref="R101" pin="1" pintype="passive"/>
+      <node ref="R103" pin="2" pintype="passive"/>
+      <node ref="U101" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="11" name="/Signal_Comp_B">
+      <node ref="C118" pin="1" pintype="passive"/>
+      <node ref="R104" pin="1" pintype="passive"/>
+      <node ref="R106" pin="2" pintype="passive"/>
+      <node ref="U101" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="12" name="/Signal_Out_Falling">
+      <node ref="J105" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="13" name="/Signal_Out_Rising">
+      <node ref="J102" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="14" name="GND">
+      <node ref="C101" pin="2" pintype="passive"/>
+      <node ref="C103" pin="2" pintype="passive"/>
+      <node ref="C104" pin="2" pintype="passive"/>
+      <node ref="C105" pin="2" pintype="passive"/>
+      <node ref="C106" pin="2" pintype="passive"/>
+      <node ref="C107" pin="2" pintype="passive"/>
+      <node ref="C108" pin="2" pintype="passive"/>
+      <node ref="C110" pin="2" pintype="passive"/>
+      <node ref="C111" pin="2" pintype="passive"/>
+      <node ref="C112" pin="2" pintype="passive"/>
+      <node ref="C113" pin="2" pintype="passive"/>
+      <node ref="C114" pin="2" pintype="passive"/>
+      <node ref="C115" pin="2" pintype="passive"/>
+      <node ref="C116" pin="2" pintype="passive"/>
+      <node ref="C117" pin="2" pintype="passive"/>
+      <node ref="C118" pin="2" pintype="passive"/>
+      <node ref="J101" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J103" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J104" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J106" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J107" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J108" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J109" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U102" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U103" pin="10" pintype="input"/>
+      <node ref="U103" pin="12" pintype="input"/>
+      <node ref="U103" pin="13" pintype="input"/>
+      <node ref="U103" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U103" pin="9" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(U102-Pad6)">
+      <node ref="U102" pin="6" pintype="output"/>
+      <node ref="U103" pin="5" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(U102-Pad8)">
+      <node ref="U102" pin="8" pintype="output"/>
+      <node ref="U103" pin="4" pintype="input"/>
+    </net>
+    <net code="17" name="Signal_Falling">
+      <node ref="J105" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U102" pin="10" pintype="input"/>
+      <node ref="U102" pin="4" pintype="input"/>
+    </net>
+    <net code="18" name="Signal_In">
+      <node ref="J109" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R103" pin="1" pintype="passive"/>
+      <node ref="R106" pin="1" pintype="passive"/>
+      <node ref="U102" pin="2" pintype="input"/>
+      <node ref="U103" pin="2" pintype="input"/>
+    </net>
+    <net code="19" name="Signal_Rising">
+      <node ref="J102" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U102" pin="9" pintype="input"/>
+    </net>
+    <net code="20" name="unconnected-(U103-Pad8)">
+      <node ref="U103" pin="8" pintype="output+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(U103-Pad11)">
+      <node ref="U103" pin="11" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>
