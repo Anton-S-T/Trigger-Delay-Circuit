@@ -1,6 +1,6 @@
 Description:
 
-The Circuit will delay the rise time or the fall time of a digital signal, or both.
+The Circuit will delay the rise time or the fall time of a trigger signal, or both.
 
 Connectors:
 
@@ -15,11 +15,11 @@ J103 and J106 can be used to read out the voltage reference of the comparator.
 J104 and J107 can be used to measure either the delay of the rise time or the delay of the fall time.
 
 The connector J102 can be used with a jumper between 2 and 3 to feed the signal back into the circuit.
-That allows the Signal to be just delayed on the rising edge and will follow the falling edge of the input signal.
+That allows the signal to be just delayed on the rising edge and will follow the falling edge of the input signal.
 That signal can be obtained from the J108 connector.
 
 The connector J105 can be used with a jumper between 2 and 3 to feed the signal back into the circuit.
-That allows the Signal to be just delayed on the falling edge and will follow the rising edge of the input signal.
+That allows the signal to be just delayed on the falling edge and will follow the rising edge of the input signal.
 That signal can be obtained from the J108 connector.
 
 When both jumpers are set to 2 and 3, you will have a delayed signal on both the rising and falling edge.
