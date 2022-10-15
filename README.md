@@ -1,4 +1,4 @@
-# Digital-Delay-Circuit
+# Trigger-Delay-Circuit
 A circuit to delay a falling edge or rising edge
 
 The board is a four layer board.
