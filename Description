@@ -23,3 +23,4 @@ That allows the Signal to be just delayed on the falling edge and will follow th
 That signal can be obtained from the J108 connector.
 
 When both jumpers are set to 2 and 3, you will have a delayed signal on both the rising and falling edge.
+That signal can be obtained from the J108 connector.
