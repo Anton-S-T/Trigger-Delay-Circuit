@@ -1,5 +1,5 @@
 # Trigger-Delay-Circuit
-A circuit to delay a falling edge or rising edge
+A circuit to delay a rising edge or the falling edge of a trigger signal.
 
 The board is a four layer board.
 
