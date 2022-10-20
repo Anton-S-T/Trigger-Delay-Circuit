@@ -3,8 +3,6 @@ A circuit to delay a rising edge or the falling edge of a trigger signal.
 
 The board is a four layer board.
 
-![20221020_203452](https://user-images.githubusercontent.com/103216308/197030883-1ed65d2c-f6ee-47d5-b30a-b0924b224c31.jpg)
-
 Top:
 ![top](https://user-images.githubusercontent.com/103216308/195992954-642c3134-2152-45e3-b8ef-286771f7058a.jpg)
 
